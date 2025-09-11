@@ -24,9 +24,9 @@ Physics postgraduate focused on Product Management, skilled in systems thinking,
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Designing an Online Marketplace for Used Vehicles in India** | A comprehensive product design case study exploring how to create trust, transparency, and accessibility in India's fragmented used vehicle market. | [View Case Study](Case_Studies/Designing-an-Online-Marketplace-for-Used-Vehicles-in-India.pdf) |
-| **Unraveling High Dropout Rates in an Online Upskilling Platform** | A root cause analysis identifying why mid-course dropout rates spiked 45% on an Indian ed-tech platform and proposing data-driven retention strategies. | [View Case Study](Case_Studies/Unraveling-High-Dropout-Rates-in-an-Online-Upskilling-Platform.pdf) |
-| **Weather-Smart Food Delivery Experience** | A product improvement case study on leveraging predictive modeling, behavioral nudges, and operational optimizations to ensure reliable food deliveries and customer trust during India’s monsoon storms. | [View Case Study](Case_Studies/Weather-Smart-Food-Delivery-Experience.pdf) |
+| **Designing an Online Marketplace for Used Vehicles in India** | A comprehensive product design case study exploring trust, transparency, and accessibility in India's used vehicle market. | [View Case Study](https://github.com/kemighetia/product-management-portfolio/blob/main/Case_Studies/Designing-an-Online-Marketplace-for-Used-Vehicles-in-India.pdf) |
+| **Unraveling High Dropout Rates in an Online Upskilling Platform** | A root cause analysis identifying why mid-course dropout rates spiked and proposing data-driven retention strategies. | [View Case Study](https://github.com/kemighetia/product-management-portfolio/blob/main/Case_Studies/Unraveling-High-Dropout-Rates-in-an-Online-Upskilling-Platform.pdf) |
+| **Weather-Smart Food Delivery Experience** | A product improvement case study using predictive modeling and behavioral nudges to improve monsoon delivery reliability. | [View Case Study](https://github.com/kemighetia/product-management-portfolio/blob/main/Case_Studies/Weather-Smart-Food-Delivery-Experience.pdf) |
 
 ---
 
