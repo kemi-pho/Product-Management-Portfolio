@@ -40,6 +40,22 @@ Physics postgraduate focused on Product Management, skilled in systems thinking,
 
 ---
 
+## 🖼 Mockups & Wireframes
+- [HabitSync App Wireframe](Mockups/habit_app_wireframe.png) – Sample mobile app screen showing core user flow.
+- [Weather-Smart Food Delivery Banner Mockup](Mockups/weather_smart_banner.png) – Example in-app notification and countdown banner for predictive weather alerts.
+
+---
+
+## 📑 Artifacts
+- [Sample PRD – Payload Trade-Off Tool](Artifacts/sample_prd_payload_tool.pdf) – Demonstrates writing clear product requirements.
+- [User Journey Map – Badminton Customer](Artifacts/user_journey_badminton.png) – Captures key user touchpoints for the Decathlon insights case.
+- [Metrics Dashboard Example](Artifacts/metrics_dashboard.png) – Illustrates tracking KPIs for decision-making.
+- [Feature Rollout Roadmap](Artifacts/feature_rollout_roadmap.png) – Visual timeline of feature implementation.
+
+---
+
+---
+
 ## Contact
 📧 **Email:** [kemighetia@gmail.com](mailto:kemighetia@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/kemi-ghetia-4968a4263](https://www.linkedin.com/in/kemi-ghetia-4968a4263)  
