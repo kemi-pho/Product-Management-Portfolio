@@ -31,16 +31,6 @@ Physics postgraduate focused on Product Management, skilled in systems thinking,
 ---
 
 ## 🖼 Mockups & Wireframes
-- [HabitSync App Wireframe](Mockups/habit_app_wireframe.png)
-
-## 📑 Artifacts
-- [Sample PRD – Payload Tool](Artifacts/sample_prd_payload_tool.pdf)
-- [User Journey Map – Badminton Customer](Artifacts/user_journey_badminton.png)
-- [Metrics Dashboard Example](Artifacts/metrics_dashboard.png)
-
----
-
-## 🖼 Mockups & Wireframes
 - [HabitSync App Wireframe](Mockups/habit_app_wireframe.png) – Sample mobile app screen showing core user flow.
 - [Weather-Smart Food Delivery Banner Mockup](Mockups/weather_smart_banner.png) – Example in-app notification and countdown banner for predictive weather alerts.
 
@@ -54,9 +44,7 @@ Physics postgraduate focused on Product Management, skilled in systems thinking,
 
 ---
 
----
-
 ## Contact
-📧 **Email:** [kemighetia@gmail.com](mailto:kemighetia@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/kemi-ghetia-4968a4263](https://www.linkedin.com/in/kemi-ghetia-4968a4263)  
-🌐 **GitHub:** [github.com/kemi-pho](https://github.com/kemi-pho)
+**Email:** [kemighetia@gmail.com](mailto:kemighetia@gmail.com)  
+**LinkedIn:** [linkedin.com/in/kemi-ghetia-4968a4263](https://www.linkedin.com/in/kemi-ghetia-4968a4263)  
+**GitHub:** [github.com/kemi-pho](https://github.com/kemi-pho)
