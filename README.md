@@ -24,9 +24,9 @@ Physics postgraduate focused on Product Management, skilled in systems thinking,
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Designing an Online Marketplace for Used Vehicles in India** | A comprehensive product design case study exploring trust, transparency, and accessibility in India's used vehicle market. | [View Case Study](https://github.com/kemighetia/product-management-portfolio/blob/main/Case-Studies/Designing-an-Online-Marketplace-for-Used-Vehicles-in-India.pdf) |
-| **Unraveling High Dropout Rates in an Online Upskilling Platform** | A root cause analysis identifying why mid-course dropout rates spiked and proposing data-driven retention strategies. | [View Case Study](https://github.com/kemighetia/product-management-portfolio/blob/main/Case-Studies/Unraveling-High-Dropout-Rates-in-an-Online-Upskilling-Platform.pdf) |
-| **Weather-Smart Food Delivery Experience** | A product improvement case study using predictive modeling and behavioral nudges to improve monsoon delivery reliability. | [View Case Study](https://github.com/kemighetia/product-management-portfolio/blob/main/Case-Studies/Weather-Smart-Food-Delivery-Experience.pdf) |
+| **Designing an Online Marketplace for Used Vehicles in India** | A comprehensive product design case study exploring trust, transparency, and accessibility in India's used vehicle market. | [View Case Study](https://github.com/kemi-pho/product-management-portfolio/blob/main/Case-Studies/Designing-an-Online-Marketplace-for-Used-Vehicles-in-India.pdf) |
+| **Unraveling High Dropout Rates in an Online Upskilling Platform** | A root cause analysis identifying why mid-course dropout rates spiked and proposing data-driven retention strategies. | [View Case Study](https://github.com/kemi-pho/product-management-portfolio/blob/main/Case-Studies/Unraveling-High-Dropout-Rates-in-an-Online-Upskilling-Platform.pdf) |
+| **Weather-Smart Food Delivery Experience** | A product improvement case study using predictive modeling and behavioral nudges to improve monsoon delivery reliability. | [View Case Study](https://github.com/kemi-pho/product-management-portfolio/blob/main/Case-Studies/Weather-Smart-Food-Delivery-Experience.pdf) |
 
 ---
 
