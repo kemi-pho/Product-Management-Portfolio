@@ -30,6 +30,16 @@ Physics postgraduate focused on Product Management, skilled in systems thinking,
 
 ---
 
+## 🖼 Mockups & Wireframes
+- [HabitSync App Wireframe](Mockups/habit_app_wireframe.png)
+
+## 📑 Artifacts
+- [Sample PRD – Payload Tool](Artifacts/sample_prd_payload_tool.pdf)
+- [User Journey Map – Badminton Customer](Artifacts/user_journey_badminton.png)
+- [Metrics Dashboard Example](Artifacts/metrics_dashboard.png)
+
+---
+
 ## Contact
 📧 **Email:** [kemighetia@gmail.com](mailto:kemighetia@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/kemi-ghetia-4968a4263](https://www.linkedin.com/in/kemi-ghetia-4968a4263)  
