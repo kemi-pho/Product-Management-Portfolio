@@ -1,22 +1,22 @@
 # Product-Management-Portfolio
 Kemi Ghetia's Product Management Portfolio
-# 🌟 Kemi Ghetia – Product Management Portfolio
 
-Physics postgraduate turned **aspiring Product Manager**, blending systems engineering, analytics, and user-focused problem-solving. Passionate about building **data-driven, impactful products** and translating complex insights into clear product strategies.
+
+Physics postgraduate focused on Product Management, skilled in systems thinking, analytics, and practical problem-solving. Committed to building disruptive products backed by data and AI.
 
 ---
 
 ## 🛠 Skills Highlights
-- **Product Management:** PRDs, Feature Prioritization (RICE & CIRCLES), OKRs, Competitive Analysis, Agile/Scrum, GTM Strategy  
-- **Analytics & Tools:** SQL, Python, Google Analytics, Excel, Figma, Miro, Notion  
+- **Product Management:** PRDs, Feature Prioritization (RICE & CIRCLES), OKRs, Competitive Analysis, Agile/Scrum Practices, GTM Strategy  
+- **Analytics & Tools:** SQL, Python, Google Analytics, Excel, Figma, Miro, Notion, Notion  
 - **Core Strengths:** Cross-Functional Collaboration, Stakeholder Management, Communication, Problem Solving, Strategic Thinking  
 
 ---
 
 ## 💼 Brief Work Experience
-- **Azista Industries (SpaceTech)** – Automated payload trade-offs and validated mission scenarios, reducing computation time by 80–85% and improving fuel efficiency by 3–5%.  
-- **Transformers & Rectifiers India Ltd.** – Optimized transformer design specs and materials, achieving a 3–4% cost reduction while maintaining IEC standards.  
-- **Decathlon Sports India** – Improved stock accuracy to 95%, reduced stockouts by 5–7%, and informed supplier review through customer insights.
+- **Azista Industries (SpaceTech)** – Automated swath-width and TDI simulations using Python and GMAT, reducing computation time by 80–85%, improving image accuracy, and contributing to 3–5% fuel efficiency in payload design.
+- **Transformers & Rectifiers India Ltd.** – Led design of 31.5–100 MVA, 11–220 kV transformers, defining specs to meet IEC standards, integrating safety product accessories, validating thermal performance, and optimizing BOM trade-offs to cut unit cost by 3–4% without compromising performance 
+- **Decathlon Sports India** – Improved stock accuracy to 95% and reduced stockouts by 5–7% through enhanced forecasting and WMS-based monitoring; analyzed badminton racket performance, uncovering 8–10% grip issues and recommending supplier review.
 
 ---
 
