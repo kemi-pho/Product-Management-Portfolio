@@ -33,4 +33,4 @@ Physics postgraduate focused on Product Management, skilled in systems thinking,
 ## Contact
 📧 **Email:** [kemighetia@gmail.com](mailto:kemighetia@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/kemi-ghetia-4968a4263](https://www.linkedin.com/in/kemi-ghetia-4968a4263)  
-🌐 **GitHub:** [github.com/kemighetia](https://github.com/kemighetia)
+🌐 **GitHub:** [github.com/kemi-pho](https://github.com/kemighetia)
