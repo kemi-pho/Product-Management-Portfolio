@@ -15,7 +15,7 @@ Physics postgraduate focused on Product Management, skilled in systems thinking,
 
 ## Work Experience
 - **Azista Industries (SpaceTech)** – Automated swath-width and TDI simulations using Python and GMAT, reducing computation time by 80–85%, improving image accuracy, and contributing to 3–5% fuel efficiency in payload design.
-- **Transformers & Rectifiers India Ltd.** – Led design of 31.5–100 MVA, 11–220 kV transformers, defining specs to meet IEC standards, integrating safety product accessories, validating thermal performance, and optimizing BOM trade-offs to cut unit cost by 3–4% without compromising performance 
+- **Transformers & Rectifiers India Ltd.** – Led design of 31.5–100 MVA, 11–220 kV transformers, defining specs to meet IEC/IS standards, integrating safety product accessories, validating thermal performance, and optimizing BOM trade-offs to cut unit cost by 3–4% without compromising performance. 
 - **Decathlon Sports India** – Improved stock accuracy to 95% and reduced stockouts by 5–7% through enhanced forecasting and WMS-based monitoring; analyzed badminton racket performance, uncovering 8–10% grip issues and recommending supplier review.
 
 ---
