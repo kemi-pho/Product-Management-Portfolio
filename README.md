@@ -31,7 +31,7 @@ Physics postgraduate focused on Product Management, skilled in systems thinking,
 ---
 
 ## 🖼 Mockups & Wireframes
-- [WheelCart App Wireframe](Mockups/wheelcart_wireframe.png) – Homepage/search screen for **WheelCart – Trusted Used Vehicles, Anytime**.
+- [WheelCart App Wireframe](Mockups/wheelcart-homepage.png) – Homepage/search screen for **WheelCart – Trusted Used Vehicles, Anytime**.
 - [Weather-Smart Delivery Banner Mockup](Mockups/weather_smart_banner.png) – In-app notification and countdown banner for predictive weather alerts.
 
 ---
