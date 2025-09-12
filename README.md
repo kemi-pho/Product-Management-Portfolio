@@ -38,14 +38,10 @@ Physics postgraduate focused on Product Management, skilled in systems thinking,
 ---
 
 ## 📑 Artifacts
-- [**Authent – Instant Document Validation SaaS**](Artifacts/Authent-Instant-Document-Validation-SaaS-PRD.pdf) – AI-powered tool for secure, fast, and reliable document verification and validation.
-
-- [**Clario – AI-Powered Meeting Intelligence SaaS**](Artifacts/Clario-AI-Powered-Meeting-Intelligence-SaaS-PRD.pdf) – AI-driven platform that captures, summarizes, and extracts actionable insights from meetings to boost team productivity.
-
+- [**Authent – Instant Document Validation SaaS PRD**](Artifacts/Authent-Instant-Document-Validation-SaaS-PRD.pdf) – AI-powered tool for secure, fast, and reliable document verification and validation.
+- [**Clario – AI-Powered Meeting Intelligence SaaS PRD**](Artifacts/Clario-AI-Powered-Meeting-Intelligence-SaaS-PRD.pdf) – AI-driven platform that captures, summarizes, and extracts actionable insights from meetings to boost team productivity.
 - [**Authent - User Journey Map**](Artifacts/Authent-User-Journey-Map.pdf) – Captures key user touchpoints for instant document validation saas.
-
-- 
-- [Metrics Dashboard Example](Artifacts/metrics_dashboard.png) – Illustrates tracking KPIs for decision-making.  
+- [**Metrics Dashboard**](Artifacts/AdFormance-Marketing-Performance-Dashboard.pdf) – Illustrates tracking KPIs for decision-making.  
 - [Feature Rollout Roadmap](Artifacts/feature_rollout_roadmap.png) – Visual timeline of feature implementation.
 ---
 
