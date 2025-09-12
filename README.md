@@ -42,9 +42,9 @@ Physics postgraduate focused on Product Management, skilled in systems thinking,
 
 - [**Clario – AI-Powered Meeting Intelligence SaaS**](Artifacts/Clario-AI-Powered-Meeting-Intelligence-SaaS-PRD.pdf) – AI-driven platform that captures, summarizes, and extracts actionable insights from meetings to boost team productivity.
 
+- [**Authent - User Journey Map**](Artifacts/Authent-User-Journey-Map.pdf) – Captures key user touchpoints for instant document validation Saas.
 
 - 
-- [User Journey Map – Badminton Customer](Artifacts/user_journey_badminton.png) – Captures key user touchpoints for the Decathlon insights case.  
 - [Metrics Dashboard Example](Artifacts/metrics_dashboard.png) – Illustrates tracking KPIs for decision-making.  
 - [Feature Rollout Roadmap](Artifacts/feature_rollout_roadmap.png) – Visual timeline of feature implementation.
 ---
