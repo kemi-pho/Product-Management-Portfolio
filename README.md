@@ -38,7 +38,8 @@ Physics postgraduate focused on Product Management, skilled in systems thinking,
 ---
 
 ## 📑 Artifacts
-- [Sample PRD – Payload Trade-Off Tool](Artifacts/sample_prd_payload_tool.pdf) – Demonstrates writing clear product requirements.  
+- [Authent – Instant Document Validation SaaS](Artifacts/Authent – Instant Document Validation SaaS.pdf) –
+- [Clario – AI-Powered Meeting Intelligence SaaS](Artifacts/Clario – AI-Powered Meeting Intelligence SaaS.pdf) –  
 - [User Journey Map – Badminton Customer](Artifacts/user_journey_badminton.png) – Captures key user touchpoints for the Decathlon insights case.  
 - [Metrics Dashboard Example](Artifacts/metrics_dashboard.png) – Illustrates tracking KPIs for decision-making.  
 - [Feature Rollout Roadmap](Artifacts/feature_rollout_roadmap.png) – Visual timeline of feature implementation.
