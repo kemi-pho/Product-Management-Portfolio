@@ -8,7 +8,7 @@ Physics postgraduate focused on Product Management, skilled in systems thinking,
 
 ## Skills 
 - **Product Management:** PRDs, Feature Prioritization (RICE & CIRCLES), OKRs, Competitive Analysis, Agile/Scrum Practices, GTM Strategy, Vibe Coding, Wireframing  
-- **Analytics & Tools:** SQL, Python, Google Analytics, Excel, Figma, Miro, Notion 
+- **Analytics & Tools:** SQL, Python, Google Analytics, Metabase, Excel, Figma, Miro, Notion 
 - **Soft Skills:** Cross-Functional Collaboration, Stakeholder Management, Communication, Problem Solving, Strategic Thinking  
 
 ---
